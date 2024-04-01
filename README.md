@@ -1,5 +1,5 @@
 # che525Instrumentation
-2024 CHE 525 Equipment Install
+
 ![RHIT Logo](https://raw.githubusercontent.com/menziegh/che525Instrumentation/main/RH_banner.png)
 
 We built a control panel that was used to power and relay information to the control system after wiring up a pressure, level, and flow meter in addition to an RTD. The pressure sensor was an electromagnetic meter. The level sensor was radar, and the flow meter was a Coriolis. The RTD was a 3-wire (2-red, 1-white).
