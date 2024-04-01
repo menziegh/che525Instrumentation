@@ -14,7 +14,7 @@ The following table details information about the equipment installed in the UO 
 |Coriolis Flow Meter|FIT525A|Endress+Hauser|N608C902000 (PromassF 300)|Mass flow rate, Temperature, Density, Viscosity|
 |RTD|TE525A|Omega|3-Wire Pt100| Temperature|
 
-Provided below are some photographs related to the finished installation:
+Provided below are some photographs related to the installation:
 
 Control Panel & Circuit Breaker Set-Up:
 ![Control Panel](https://raw.githubusercontent.com/menziegh/che525Instrumentation/main/Control_panel.JPG)
